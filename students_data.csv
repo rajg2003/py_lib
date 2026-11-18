@@ -1,0 +1,13 @@
+,student_id,name,department,marks,attendance
+0,101,Ananya,CSE,88,90
+1,102,Karthik,ECE,72,85
+2,103,Priya,MECH,95,94
+3,104,Rahul,CSE,64,70
+4,105,Sanya,ECE,81,88
+5,106,Vikram,MECH,79,82
+6,107,Neha,CSE,,91
+7,108,Rohan,,68,76
+8,109,Meera,EEE,84,
+9,110,,MECH,75,80
+10,111,Arjun,ECE,,
+11,112,Divya,CSE,92,96
